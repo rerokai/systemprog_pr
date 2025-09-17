@@ -1,4 +1,4 @@
-                                                            pr 2  
+                                         pr 2  
 number 1:  
 <img width="1210" height="276" alt="изображение" src="https://github.com/user-attachments/assets/ec11a0e2-048a-4d76-8ab0-30df029ab252" />  
 number 2:  
