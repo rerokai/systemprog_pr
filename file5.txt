@@ -1,7 +1,0 @@
-Does programming require knowing code? Not necessarily.
-When I say that, I'm mostly talking about Web Development, not working with graphics or specific applications that require advanced code.
-You can be a great programmer even if you were bad at code in school.
-I mean, I've been programming for the last 20 years and I never had to open a code book to remind myself of something I had to know but forgot. I did quite a lot of code both in High School and at the University.
-What you need to be good at, however, is problem solving. I think that code in school teaches you a good degree of how to solve problems, but so does Sudoku or other hobbies.
-Of course you need some basic code concepts, like calculus or algebra, or logic, but the very basics if it. You don't need to know any of complex numbers, probability,
-Don't listen to gatekeepers: if they tell you won't be a programmer because you are not good at code, don't listen to them.
