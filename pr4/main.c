@@ -12,6 +12,6 @@ int main() {
   
         printf("Ошибка: %s (errno = %d)\n", strerror(errno), errno); //превращаем код ошибки в читаемый текст
     }
-
+    
     return 0;
 }
