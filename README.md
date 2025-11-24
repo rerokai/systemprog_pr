@@ -1,3 +1,7 @@
+##     pr 5      
+number 1:   
+<img width="550" height="150" alt="изображение" src="https://github.com/user-attachments/assets/0eae5ddb-009c-46a6-80bc-d8ba1147eea0" />  
+
 ##     pr 4      
 number 1:  
 <img width="389" height="80" alt="изображение" src="https://github.com/user-attachments/assets/2f344133-2108-4285-8014-5c8d00cc3615" />  
