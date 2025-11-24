@@ -1,0 +1,31 @@
+80 • Английский язык в сфере информационных технологий
+Запоминающие устройства; носители памяти; первичные ЗУ; вто
+ричные ЗУ; время доступа; стоимость ЗУ; диапазон емкости памяти;
+архивная память; движущиеся механические части; вращающиеся
+магнитные ленты и диски; по этим причинам; твердотельные устрой
+ства; магнитные сердечники; полупроводники; оперативное ЗУ; аппа
+ратное обеспечение вторичной памяти; звукозапись; намагниченные
+точки; представлять зашифрованную комбинацию единиц информа
+ции; в отличие от магнитных лент; последовательная и произволь
+ная обработка; устройства с движущейся и фиксированной головкой;
+удовлетворять потребности; гибкий диск.
+12. Опишите схему.
+Fig. 11. Communication between the primary storage unit
+and the arithmetic-logic and control units
+13. Переведите предложения, содержащие всевозможные формы при
+частий: Participle I, Participle II, Perfect Participle Active и Perfect
+Participle Passive.
+1. Electromechanical memories depend upon moving mechanical parts
+for their operation. 2. The time required for the com puter to locate and
+transfer data to and from a storage medium is called the access time. 3. Be
+ing not visible, software makes possible the effective operation of com puter
+system. 4. Having invented magnetic tapes, the Germ ans used them as the
+secondary storage medium. 5. When properly programmed, com puters don’t
+make com putational errors. 6. Having been introduced in the early 1960s,
+magnetic disk storage has replaced magnetic tape storage. 7. The control
+unit interpreting instructions is one of the im portant parts of any com puter
+system. 8. Data recorded in the form o f magnetized dots can be arranged to
+represent coded patterns o f bits. 9. As contrasted with magnetic tapes, mag
+netic disks can perform both sequential and random processing. 10. While
+having no moving mechanical parts, electronic memories can transfer data
+at very high speed:
