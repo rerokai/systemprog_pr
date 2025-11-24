@@ -1,3 +1,6 @@
+##     pr 6  
+<img width="966" height="294" alt="изображение" src="https://github.com/user-attachments/assets/cff1c1d2-d5ba-4080-ab6b-26a2b6fe2b02" />
+
 ##     pr 5      
 number 1:   
 <img width="550" height="150" alt="изображение" src="https://github.com/user-attachments/assets/0eae5ddb-009c-46a6-80bc-d8ba1147eea0" />  
